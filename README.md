@@ -1,10 +1,11 @@
 <h3 align='center'> ▂▃▅▇█▓▒░C𝚑𝚞𝚛𝚗 C𝚞𝚜𝚝𝚘𝚖𝚎𝚛 A𝚗𝚊𝚕𝚢𝚜𝚒𝚜░▒▓█▇▅▃▂</h3>
 <br>
 
-**`Churn Analysis`** merujuk pada proses memahami dan menganalisis tingkat churn dalam suatu bisnis atau industri. Churn sendiri mengacu pada tingkat pelanggan yang meninggalkan atau berhenti menggunakan produk atau layanan perusahaan dalam suatu periode waktu tertentu. Analisis churn bertujuan untuk mengidentifikasi penyebab dan faktor-faktor yang berkontribusi terhadap kehilangan pelanggan, serta mengembangkan strategi untuk mengurangi tingkat churn. Dalam konteks telekomunikasi, churn mengindikasikan pelanggan yang beralih ke penyedia layanan lain atau berhenti menggunakan layanan telekomunikasi.
+**`Churn Analysis`** merupakan proses memahami dan menganalisis tingkat pelanggan yang meninggalkan atau berhenti menggunakan produk atau layanan perusahaan dalam suatu periode waktu tertentu. Analisis churn bertujuan untuk mengidentifikasi penyebab dan faktor-faktor yang berkontribusi terhadap kehilangan pelanggan, serta mengembangkan strategi untuk mengurangi tingkat churn. Dalam konteks telekomunikasi, churn mengindikasikan pelanggan yang beralih ke penyedia layanan lain atau berhenti menggunakan layanan telekomunikasi.
 <br>
 <details>
   <summary><b>More Explanation...</b></summary>
+  <br>
   
 **Churn Rate:**
    - Churn Rate adalah metrik yang mengukur persentase pelanggan yang meninggalkan layanan perusahaan dalam suatu periode waktu, biasanya dihitung per bulan atau per tahun.
