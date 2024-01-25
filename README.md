@@ -70,19 +70,29 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 </details> 
 </details>
 
-<h2>Business Understanding</h2>
+## Business Understanding
 
-### Problem Statement
-### Goal
+### [Problem Statement](#-problem-statement)
+### [Goal](#-goal)
 ### [Objectives](#-objectives)
 ### [Business Metrics](#-business-metrics)
 
 ## Exploratory Data Analysis (EDA)
-### Dataset 
-### Decriptive Statistics
-### Insights
+### [Dataset](#-dataset) 
+### [Decriptive Statistics](#-descriptive-statistics)
+### [Insights](#-insights)
 
 ## Analyze & Visualize Data
 
 ## Business Insights & Recommendation
 
+
+<p>This text needs to <del>strikethrough</del> <ins>since it is redundant</ins>!</p>
+<p><tt>This text is teletype text.</tt></p>
+<font color="blue">Colored text</font>
+<center>This text is center-aligned.</center>
+<p>This text contains <sup>superscript</sup> text.</p>
+<p>This text contains <sub>subscript</sub> text.</p>
+<p>The project status is <span style="color:green;font-weight:bold">GREEN</span> even though the bug count / developer may be in <span style="color:red;font-weight:bold">red.</span> - Capability of span
+<p><small>Disclaimer: Wiki also supports showing small text</small></p>
+<p><big>Bigger text</big></p>
