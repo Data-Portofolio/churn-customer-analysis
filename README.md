@@ -74,6 +74,8 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 ## Business Understanding
 
 ### [Problem Statement](#-problem-statement)
+- Databel, a telecom provider, has problem about customer churn. My role is a <ins>_Data Consultant_</ins> & my task is to discover why customers are churning, or in other words, leave `Databel`.
+  
 ### [Goal](#-goal)
 ### [Objectives](#-objectives)
 ### [Business Metrics](#-business-metrics)
