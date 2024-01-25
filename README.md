@@ -70,9 +70,19 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 </details> 
 </details>
 
-## Problem Statement
-## Explore Data 
+<h2>Business Understanding</h2>
+
+### Problem Statement
+### Goal
+### Objectives
+### Business Metrics
+
+## Exploratory Data Analysis (EDA)
+### Dataset 
+### Decriptive Statistics
+### Insights
+
 ## Analyze & Visualize Data
-## Dashboarding
-## Insights & Recommendation
+
+## Business Insights & Recommendation
 
