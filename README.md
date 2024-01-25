@@ -9,7 +9,8 @@
 
 2. **Churn Rate:**
    - Churn Rate adalah metrik yang mengukur persentase pelanggan yang meninggalkan layanan perusahaan dalam suatu periode waktu, biasanya dihitung per bulan atau per tahun.
-   - Formula Churn Rate: (Jumlah pelanggan yang meninggalkan layanan / Total pelanggan awal) x 100%.
+   - Formula Churn Rate:
+     `(Jumlah pelanggan yang meninggalkan layanan / Total pelanggan awal) x 100%`
 
 3. **Faktor-faktor yang Mempengaruhi Churn:**
    - Kualitas Layanan: Pelanggan cenderung meninggalkan jika kualitas layanan tidak memenuhi harapan.
