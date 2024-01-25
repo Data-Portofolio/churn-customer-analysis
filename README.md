@@ -81,9 +81,14 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 ### [Business Metrics](#-business-metrics)
 
 ## Exploratory Data Analysis (EDA)
+
 ### [Dataset](#-dataset) 
+- The Databel dataset consists of 29 different columns and has one row per customer.
 ### [Decriptive Statistics](#-descriptive-statistics)
 ### [Insights](#-insights)
+- The average churn rate of Databel is 27%
+- The main reasons why customers churn is related to competitors(~45%).
+- The churn rate in California is abnormally high with 63.24%.
 
 ## Analyze & Visualize Data
 
