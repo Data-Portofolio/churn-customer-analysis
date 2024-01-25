@@ -1,7 +1,7 @@
 <h3 align='center'> ▂▃▅▇█▓▒░C𝚑𝚞𝚛𝚗 C𝚞𝚜𝚝𝚘𝚖𝚎𝚛 A𝚗𝚊𝚕𝚢𝚜𝚒𝚜░▒▓█▇▅▃▂</h3>
 <br>
 
-**`Churn Analysis`** merupakan proses memahami dan menganalisis tingkat pelanggan yang meninggalkan atau berhenti menggunakan produk atau layanan perusahaan dalam suatu periode waktu tertentu. Analisis churn bertujuan untuk mengidentifikasi penyebab dan faktor-faktor yang berkontribusi terhadap kehilangan pelanggan, serta mengembangkan strategi untuk mengurangi tingkat churn. Dalam konteks telekomunikasi, churn mengindikasikan pelanggan yang beralih ke penyedia layanan lain atau berhenti menggunakan layanan telekomunikasi.
+> **`Churn Analysis`** merupakan proses memahami dan menganalisis tingkat pelanggan yang meninggalkan atau berhenti menggunakan produk atau layanan perusahaan dalam suatu periode waktu tertentu. Analisis churn bertujuan untuk mengidentifikasi penyebab dan faktor-faktor yang berkontribusi terhadap kehilangan pelanggan, serta mengembangkan strategi untuk mengurangi tingkat churn. Dalam konteks telekomunikasi, churn mengindikasikan pelanggan yang beralih ke penyedia layanan lain atau berhenti menggunakan layanan telekomunikasi.
 <br>
 <details>
   <summary><b>More Explanation...</b></summary>
@@ -74,7 +74,7 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 ## Business Understanding
 
 ### [Problem Statement](#-problem-statement)
-- Databel, a telecom provider, has problem about customer churn. My role is a <ins>_Data Consultant_</ins> & my task is to discover why customers are churning, or in other words, leave `Databel`.
+> **Databel**, a telecom provider, has problem about customer churn. My role is a <ins>_Data Consultant_</ins> & my task is to discover why customers are churning, or in other words, leave Databel.
   
 ### [Goal](#-goal)
 ### [Objectives](#-objectives)
