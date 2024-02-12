@@ -106,6 +106,9 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 ## Exploratory Data Analysis (EDA)
 
 ### [Dataset](#-dataset) 
+
+[Metadata - Case study_ Analyzing customer churn in Tableau](https://assets.datacamp.com/production/repositories/5952/datasets/e117ea26cf73db68bbf18cba29d0c84d4961ee9e/Metadata%20-%20Case%20study_%20Analyzing%20customer%20churn%20in%20Tableau.pdf)
+
 - The Databel dataset consists of 29 different columns and has one row per customer.
 - Count of Customer = count of unieque customer (6687)
 - Churn Rate = 26.86%
