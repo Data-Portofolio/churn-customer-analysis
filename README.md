@@ -93,7 +93,8 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 ## Analyze & Visualize Data
 
 ## Business Insights & Recommendation
-- You discovered the churn rate for customers who pay for an international plan, but don't call internationally is skyhigh.
+- The churn rate for customers who pay for an international plan, but don't call internationally is skyhigh.
+  
   > Suggest: Contact customers who are an on an international plan but have not called internationally and propose them to downgrade their plan.
 
 <p>This text needs to <del>strikethrough</del> <ins>since it is redundant</ins>!</p>
