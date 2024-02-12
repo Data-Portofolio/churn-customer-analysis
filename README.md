@@ -107,6 +107,8 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 
 ### [Dataset](#-dataset) 
 - The Databel dataset consists of 29 different columns and has one row per customer.
+- Count of Customer = count of unieque customer (6687)
+- Churn Rate = 26.86%
 ### [Decriptive Statistics](#-descriptive-statistics)
 ### [Insights](#-insights)
 - The average churn rate of Databel is 27%
@@ -114,6 +116,23 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 - The churn rate in California is abnormally high with 63.24%.
 
 ## Analyze & Visualize Data
+
+#### 1. Churn Reason
+`Top 5 reasons` of churn customer in Databel :
+- Competitor made better offer (29.25%)
+- Competitor had better devices
+- Attitude of support person
+- Don't know
+- Competitor offered more data
+
+<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/a39fd10e-d0a3-4905-8a70-7b610e77bee8"></p>
+
+#### 2. Churn Category Reason
+Almost half of all customer churning are related to **`the competitor category (48.82%)`**.
+<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/9aafa6a3-f4b2-40d0-b713-1f98147bd76c)"></p>
+
+
+
 
 ## Business Insights & Recommendation
 - The churn rate for customers who pay for an international plan, but don't call internationally is skyhigh.
