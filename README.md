@@ -61,6 +61,8 @@ An example question could be:
   
 ### Konsep Leaky Bucket Problem
 
+Anda dapat membandingkan `churn` dengan `Leaky Bucket Problem`. Anda dapat mengisi ember dengan lebih banyak air (atau pelanggan baru dalam hal ini), tetapi pendapatan keseluruhan Anda tidak akan meningkat jika pelanggan yang sudah ada meninggalkan perusahaan Anda. Lebih mudah untuk mempertahankan pelanggan daripada menarik pelanggan baru, jadi untuk banyak perusahaan, mengurangi churn menjadi prioritas.
+
 Leaky Bucket Problem merujuk pada suatu model atau analogi yang digunakan untuk menggambarkan cara mengelola data atau permintaan yang masuk ke suatu sistem dengan tingkat yang berbeda-beda. Dalam konteks churn customer, leaky bucket dapat diartikan sebagai strategi untuk menjaga keberlanjutan dan stabilitas pelanggan. Analogi ini menggambarkan bagaimana perusahaan berusaha mempertahankan pelanggan sambil terus menarik pelanggan baru.
 
 1. **Bucket (Ember):**
