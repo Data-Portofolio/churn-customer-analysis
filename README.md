@@ -1,8 +1,30 @@
 <h3 align='center'> ▂▃▅▇█▓▒░C𝚑𝚞𝚛𝚗 C𝚞𝚜𝚝𝚘𝚖𝚎𝚛 A𝚗𝚊𝚕𝚢𝚜𝚒𝚜░▒▓█▇▅▃▂</h3>
 <br>
 
+<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/afcae735-4e0a-434c-8d49-8fd9ac05601b"></p>
+
+##### 1. Data Check: to make sure the data you received makes sense and it is ready to work with. 
+Example:
+  - check for duplicate values or 
+  - missing values, and 
+  - do a sense check with other internal data sources.
+    
+##### 2. Data Exploration: This is the time where you need to ask yourself different questions to explore the data. 
+An example question could be:
+  - Does an increase in revenue also lead to an increase in profit?
+  - You'll also build your first visualization in this step.
+    
+##### 3. Analyze & Visualize Data: It's key to choose the right visualization to convey a message. 
+  - This step also enables you to dig deeper into certain topics to make sure you don't miss any insights.
+    
+##### 4. Dasboarding 
+  - Combine the visualizations
+
+##### 5. Communicate the insights with stakeholders
+
 > **`Churn Analysis`** merupakan proses memahami dan menganalisis tingkat pelanggan yang meninggalkan atau berhenti menggunakan produk atau layanan perusahaan dalam suatu periode waktu tertentu. Analisis churn bertujuan untuk mengidentifikasi penyebab dan faktor-faktor yang berkontribusi terhadap kehilangan pelanggan, serta mengembangkan strategi untuk mengurangi tingkat churn. Dalam konteks telekomunikasi, churn mengindikasikan pelanggan yang beralih ke penyedia layanan lain atau berhenti menggunakan layanan telekomunikasi.
 <br>
+
 <details>
   <summary><b>More Explanation...</b></summary>
   <br>
