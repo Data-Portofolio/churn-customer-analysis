@@ -114,13 +114,9 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 - Churn Rate = 26.86%
 ### [Decriptive Statistics](#-descriptive-statistics)
 ### [Insights](#-insights)
-- The average churn rate of Databel is 27%
-- The main reasons why customers churn is related to competitors(~45%).
-- The churn rate in California is abnormally high with 63.24%.
+#### 1. The average churn rate of Databel is `6.86%`
 
-## Analyze & Visualize Data
-
-#### 1. Churn Reason
+#### 2. Churn Reason
 `Top 5 reasons` of churn customer in Databel :
 - Competitor made better offer (29.25%)
 - Competitor had better devices
@@ -130,13 +126,17 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/a39fd10e-d0a3-4905-8a70-7b610e77bee8"></p>
 
-#### 2. Churn Category Reason
+#### 3. Churn Category Reason
 Almost half of all customer churning are related to **`the competitor category (48.82%)`**.
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/9aafa6a3-f4b2-40d0-b713-1f98147bd76c)"></p>
 
-#### 3. Geomap
+#### 4. Geomap
 The churn rate in **California (CA)** is the highest (`63.24%` or `43 of 68 customers`).
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/7c95a24b-89ec-44ec-a7c8-c8e22a1845a5"></p>
+
+
+## Analyze & Visualize Data
+
 
 
 
