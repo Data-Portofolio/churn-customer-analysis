@@ -1,6 +1,7 @@
 <h3 align='center'> ▂▃▅▇█▓▒░C𝚑𝚞𝚛𝚗 C𝚞𝚜𝚝𝚘𝚖𝚎𝚛 A𝚗𝚊𝚕𝚢𝚜𝚒𝚜░▒▓█▇▅▃▂</h3>
 <br>
-
+<details><summary>Data Analysis Flow in Tableu</summary>
+  
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/afcae735-4e0a-434c-8d49-8fd9ac05601b"></p>
 
 ##### 1. Data Check: to make sure the data you received makes sense and it is ready to work with. 
@@ -21,13 +22,11 @@ An example question could be:
   - Combine the visualizations
 
 ##### 5. Communicate the insights with stakeholders
+</details>
 
+<details><summary><b>Concept of Churn Analysis</b></summary>
 > **`Churn Analysis`** merupakan proses memahami dan menganalisis tingkat pelanggan yang meninggalkan atau berhenti menggunakan produk atau layanan perusahaan dalam suatu periode waktu tertentu. Analisis churn bertujuan untuk mengidentifikasi penyebab dan faktor-faktor yang berkontribusi terhadap kehilangan pelanggan, serta mengembangkan strategi untuk mengurangi tingkat churn. Dalam konteks telekomunikasi, churn mengindikasikan pelanggan yang beralih ke penyedia layanan lain atau berhenti menggunakan layanan telekomunikasi.
 <br>
-
-<details>
-  <summary><b>More Explanation...</b></summary>
-  <br>
   
 **Churn Rate:**
    - Churn Rate adalah metrik yang mengukur persentase pelanggan yang meninggalkan layanan perusahaan dalam suatu periode waktu, biasanya dihitung per bulan atau per tahun.
