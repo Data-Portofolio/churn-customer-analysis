@@ -136,6 +136,14 @@ The churn rate in **California (CA)** is the highest (`63.24%` or `43 of 68 cust
 
 
 ## Analyze & Visualize Data
+#### 1. Demographics
+- Churn rate for `Senior group` is 10% higher than average `(38.22%)`
+  
+<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/8f7eddcc-6620-465e-8336-bcb7e27f87ac"></p>
+
+#### 1. Age Group
+- The age group of 80-85 have the highest churn rates `(52%)` but they contains the least of people `(only 25 customers)`. 
+<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/26ce648f-a589-4f24-b407-c603bcc368c4"></p>
 
 
 
