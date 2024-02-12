@@ -135,7 +135,7 @@ Almost half of all customer churning are related to **`the competitor category (
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/9aafa6a3-f4b2-40d0-b713-1f98147bd76c)"></p>
 
 #### 3. Geomap
-The churn rate in **California (CA)** is the highest (`63.24%` or `43 customers`).
+The churn rate in **California (CA)** is the highest (`63.24%` or `43 of 68 customers`).
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/7c95a24b-89ec-44ec-a7c8-c8e22a1845a5"></p>
 
 
