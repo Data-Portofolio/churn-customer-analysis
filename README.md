@@ -137,17 +137,33 @@ The churn rate in **California (CA)** is the highest (`63.24%` or `43 of 68 cust
 
 ## Analyze & Visualize Data
 #### 1. Demographics
-- Churn rate for `Senior group` is 10% higher than average `(38.22%)`
+- Churn rate for `Senior group` is 10% higher than average `(38.22%)`.
   
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/8f7eddcc-6620-465e-8336-bcb7e27f87ac"></p>
 
-#### 1. Age Group
-- The age group of 80-85 have the highest churn rates `(52%)` but they contains the least of people `(only 25 customers)`. 
+#### 2. Age Group
+- The age group of 80-85 year old have the highest churn rates `(52%)` but they contain the least of people `(only 25 customers)`. 
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/26ce648f-a589-4f24-b407-c603bcc368c4"></p>
 
+#### 3. Churn Rate by Group of Customer
+- The lowest churn rate **(`5.6%`)** is a customer group consisting of 6 people and conversely, the highest churn rate (`32.85%`) is for customers who are **`Not in a Group`**.
+  
+<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/d2b77c32-121e-4f63-b86e-5c29e81d6b8d"></p>
+
+#### 4. Churn Rate vs Dynamic Metric
+- The average monthly charge in the group is relatively low compared to customers `Not in a group`.  This is what causes the churn rate in `Not in a Group` to be the highest.
+  
+  <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/e5c0f8fe-307a-4f9d-a7d2-0969cd5aca6a"></p>
+  
+- Based on analysis of the graph below, it can be seen that there are 5166 customers or 77.25% of all customers, who are `Not in a Group`.
+
+<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/6c85d740-d3e1-42e4-953e-2cc8088ca990"></p>
 
 
 
+#### 5. 
+
+<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/26ce648f-a589-4f24-b407-c603bcc368c4"></p>
 
 ## Business Insights & Recommendation
 - The churn rate for customers who pay for an international plan, but don't call internationally is skyhigh.
