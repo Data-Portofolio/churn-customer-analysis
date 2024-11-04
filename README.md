@@ -25,29 +25,31 @@ An example question could be:
 </details>
 
 <details><summary><b>Concept of Churn Analysis</b></summary>
+  
 > **`Churn Analysis`** merupakan proses memahami dan menganalisis tingkat pelanggan yang meninggalkan atau berhenti menggunakan produk atau layanan perusahaan dalam suatu periode waktu tertentu. Analisis churn bertujuan untuk mengidentifikasi penyebab dan faktor-faktor yang berkontribusi terhadap kehilangan pelanggan, serta mengembangkan strategi untuk mengurangi tingkat churn. Dalam konteks telekomunikasi, churn mengindikasikan pelanggan yang beralih ke penyedia layanan lain atau berhenti menggunakan layanan telekomunikasi.
 <br>
   
 **Churn Rate:**
-   - Churn Rate adalah metrik yang mengukur persentase pelanggan yang meninggalkan layanan perusahaan dalam suatu periode waktu, biasanya dihitung per bulan atau per tahun.
+   - Churn Rate : Metrik yang mengukur persentase pelanggan yang meninggalkan layanan perusahaan dalam suatu periode waktu, biasanya dihitung per bulan atau per tahun.
    - Formula Churn Rate:
-     `(Jumlah pelanggan yang meninggalkan layanan / Total pelanggan awal) x 100%`
+     
+    `(Jumlah pelanggan yang meninggalkan layanan / Total pelanggan awal) x 100%`
 
 **Faktor-faktor yang Mempengaruhi Churn:**
-   - Kualitas Layanan: Pelanggan cenderung meninggalkan jika kualitas layanan tidak memenuhi harapan.
-   - Harga: Penyesuaian harga yang tidak sesuai dapat menjadi penyebab pelanggan beralih.
-   - Layanan Pelanggan: Pelayanan pelanggan yang buruk dapat memicu keputusan pelanggan untuk meninggalkan perusahaan.
-   - Persaingan: Keberadaan penyedia layanan alternatif yang lebih menarik dapat mempengaruhi churn rate.
+   - **Kualitas Layanan**: Pelanggan cenderung meninggalkan jika kualitas layanan tidak memenuhi harapan.
+   - **Harga**: Penyesuaian harga yang tidak sesuai dapat menjadi penyebab pelanggan beralih.
+   - **Layanan Pelanggan**: Pelayanan pelanggan yang buruk dapat memicu keputusan pelanggan untuk meninggalkan perusahaan.
+   - **Persaingan**: Keberadaan penyedia layanan alternatif yang lebih menarik dapat mempengaruhi churn rate.
 
 **Dampak Churn pada Perusahaan:**
-   - Penurunan Pendapatan: Kehilangan pelanggan berarti penurunan pendapatan dari abonemen atau penggunaan layanan.
-   - Biaya Akuisisi Pelanggan: Meningkatnya biaya untuk mendapatkan pelanggan baru guna menggantikan yang telah meninggalkan.
-   - Reputasi Perusahaan: Churn yang tinggi dapat merusak reputasi perusahaan di pasar.
+   - **Penurunan Pendapatan**: Kehilangan pelanggan berarti penurunan pendapatan dari abonemen atau penggunaan layanan.
+   - **Biaya Akuisisi Pelanggan**: Meningkatnya biaya untuk mendapatkan pelanggan baru guna menggantikan yang telah meninggalkan.
+   - **Reputasi Perusahaan**: Churn yang tinggi dapat merusak reputasi perusahaan di pasar.
 
 **Strategi Mengurangi Churn:**
-   - Peningkatan Kualitas Layanan: Memastikan bahwa layanan yang disediakan memenuhi atau bahkan melebihi harapan pelanggan.
-   - Program Loyalty: Menyusun program yang memberikan insentif kepada pelanggan setia.
-   - Analisis Data: Menggunakan data untuk mengidentifikasi pola churn dan mengambil tindakan pencegahan.
+   - **Peningkatan Kualitas Layanan**: Memastikan bahwa layanan yang disediakan memenuhi atau bahkan melebihi harapan pelanggan.
+   - **Program Loyalty**: Menyusun program yang memberikan insentif kepada pelanggan setia.
+   - **Analisis Data**: Menggunakan data untuk mengidentifikasi pola churn dan mengambil tindakan pencegahan.
 
 **Pemantauan dan Evaluasi Churn Rate:**
    - Pemantauan Rutin: Melakukan pemantauan secara rutin terhadap Churn Rate untuk mengidentifikasi tren dan pola.
