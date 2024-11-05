@@ -177,24 +177,23 @@ The churn rate in **California (CA)** is the highest (`63.24%`).
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/067da8c9-7a6d-4749-ba70-82cb94ce951d"></p>
 
 ## Business Insights & Recommendation
--  From the analysis, the highest reason for customer churn in Databel is that competitors made better offers, accounting for 29.25% of the churn.
+### 1. From the analysis, the highest reason for customer churn in Databel is that competitors made better offers, accounting for 29.25% of the churn.
    > Suggest: Databel should develop more attractive and tailored offerings that meet customer needs. These offerings should be more appealing than those of competitors in terms of pricing and packages. Additionally, the attitude of support staff should be trained to ensure they provide high levels of customer satisfaction, especially for the senior group.
   
-- The churn rate for customers who pay for an international plan, but don't call internationally is skyhigh.
+### 2. The churn rate for customers who pay for an international plan, but don't call internationally is skyhigh.
   
   > Suggest: Contact customers who are an on an international plan but have not called internationally and propose them to downgrade their plan.
   
-- Senior customers have a churn rate 10% higher than average.
+### 3. Senior customers have a churn rate 10% higher than average.
   > Suggest: Databel should implement simplified billing, dedicated support channels, special pricing, and loyalty rewards for senior customers. Personalized assistance and educational initiatives can help seniors feel more confident and satisfied with the service. Specifically, for the 80-85 age group, Databel should provide enhanced customer service, including priority service, in-home assistance, and health-related
-
-- The overall churn rate for customers in a group is lower than for those who are not in a group. This is partly because the average monthly charge for customers in a group is relatively low compared to those not in a group.
+### 4. The overall churn rate for customers in a group is lower than for those who are not in a group. This is partly because the average monthly charge for customers in a group is relatively low compared to those not in a group.
   > Suggest: Databel should contact customers to promote group plans, highlighting the lower average monthly charges. Additionally, offer special discounts or incentives for customers to switch from individual plans to group plans. This approach can help reduce churn by making the service more affordable and appealing.
 
-- Customers who have an unlimited plan but do not consume more than 5GB per month tends to churn more.
+#### 5. Customers who have an unlimited plan but do not consume more than 5GB per month tends to churn more.
   > Suggest: Databel should contact customers to offer attractive pricing and other benefits that are more appealing compared to competitors.
 
-- Customers who an `International Plan` but do not actively make international calls have the highest churn rate.
+### 6. Customers who an `International Plan` but do not actively make international calls have the highest churn rate.
   > Suggest: Contact customers with an International Plan who have not actively made international calls for a certain period to offer them a switch to a normal package or provide a monthly discount below $30 or below any competitors. This can help lower their average monthly charge, making it more competitive and reducing the churn rate.
 
-- Out of 1,796 churned customers, 1,141 had an average monthly charge of $18.75 and were on a Month to Month contract with Direct Debit payment.
+### 7. Out of 1,796 churned customers, 1,141 had an average monthly charge of $18.75 and were on a Month to Month contract with Direct Debit payment.
   > Suggest: Databel should contact customers through direct calls or campaigns via email/messages to offer a more attractive monthly charge for the Month to Month plan, such as below $18 or lower than any competitors, and propose payment options via paper check/credit card.
