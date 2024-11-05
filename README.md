@@ -113,18 +113,21 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 ## Exploratory Data Analysis (EDA)
 
 ### [Dataset](#-dataset) 
+- The Databel dataset consists of 29 columns and 6687 records.
 
 [Metadata - Case study_ Analyzing customer churn in Tableau](https://assets.datacamp.com/production/repositories/5952/datasets/e117ea26cf73db68bbf18cba29d0c84d4961ee9e/Metadata%20-%20Case%20study_%20Analyzing%20customer%20churn%20in%20Tableau.pdf)
 
-- The Databel dataset consists of 29 different columns and has one row per customer.
-- Count of Customer = count of unieque customer (6687)
-- Churn Rate = 26.86%
 ### [Decriptive Statistics](#-descriptive-statistics)
-### [Insights](#-insights)
-#### 1. The average churn rate of Databel is `6.86%`
 
-#### 2. Churn Reason
-`Top 5 reasons` of churn customer in Databel :
+### [Insights](#-insights)
+#### 1. The churn rate of Databel is `26.86%`
+
+#### 2. Churn Category Reason
+Almost half of all customer churning are related to **`the competitor category (48.82%)`**.
+<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/9aafa6a3-f4b2-40d0-b713-1f98147bd76c)"></p>
+
+#### 3. Churn Reason
+**Top 5 reasons** of churn customer in Databel :
 - Competitor made better offer (29.25%)
 - Competitor had better devices
 - Attitude of support person
@@ -133,9 +136,7 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/a39fd10e-d0a3-4905-8a70-7b610e77bee8"></p>
 
-#### 3. Churn Category Reason
-Almost half of all customer churning are related to **`the competitor category (48.82%)`**.
-<p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/9aafa6a3-f4b2-40d0-b713-1f98147bd76c)"></p>
+
 
 #### 4. Geomap
 The churn rate in **California (CA)** is the highest (`63.24%` or `43 of 68 customers`).
