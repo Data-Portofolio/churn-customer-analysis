@@ -123,7 +123,7 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 #### 1. The churn rate of Databel is `26.86%`
 
 #### 2. Churn Category Reason
-Almost half of all customer churning are related to **`the competitor category (48.82%)`**.
+Almost half of all customer churning are related to **`the competitor category (44.82%)`**.
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/9aafa6a3-f4b2-40d0-b713-1f98147bd76c)"></p>
 
 #### 3. Churn Reason
@@ -137,9 +137,8 @@ Almost half of all customer churning are related to **`the competitor category (
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/a39fd10e-d0a3-4905-8a70-7b610e77bee8"></p>
 
 
-
 #### 4. Geomap
-The churn rate in **California (CA)** is the highest (`63.24%` or `43 of 68 customers`).
+The churn rate in **California (CA)** is the highest (`63.24%`).
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/7c95a24b-89ec-44ec-a7c8-c8e22a1845a5"></p>
 
 
@@ -178,16 +177,20 @@ The churn rate in **California (CA)** is the highest (`63.24%` or `43 of 68 cust
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/067da8c9-7a6d-4749-ba70-82cb94ce951d"></p>
 
 ## Business Insights & Recommendation
+-  From the analysis, the highest reason for customer churn in Databel is that competitors made better offers, accounting for 29.25% of the churn. Therefore, Databel should develop more attractive and tailored offerings that meet customer needs.
+  
 - The churn rate for customers who pay for an international plan, but don't call internationally is skyhigh.
   
   > Suggest: Contact customers who are an on an international plan but have not called internationally and propose them to downgrade their plan.
+  
+- Senior customers have a churn rate 10% higher than average.
+  > Suggest: Databel should implement simplified billing, dedicated support channels, special pricing, and loyalty rewards for senior customers. Personalized assistance and educational initiatives can help seniors feel more confident and satisfied with the service. Specifically, for the 80-85 age group, Databel should provide enhanced customer service, including priority service, in-home assistance, and health-related
 
-<p>This text needs to <del>strikethrough</del> <ins>since it is redundant</ins>!</p>
-<p><tt>This text is teletype text.</tt></p>
-<font color="blue">Colored text</font>
-<center>This text is center-aligned.</center>
-<p>This text contains <sup>superscript</sup> text.</p>
-<p>This text contains <sub>subscript</sub> text.</p>
-<p>The project status is <span style="color:green;font-weight:bold">GREEN</span> even though the bug count / developer may be in <span style="color:red;font-weight:bold">red.</span> - Capability of span
-<p><small>Disclaimer: Wiki also supports showing small text</small></p>
-<p><big>Bigger text</big></p>
+- The overall churn rate for customers in a group is lower than for those who are not in a group. This is partly because the average monthly charge for customers in a group is relatively low compared to those not in a group.
+  > Suggest: Databel should contact customers to promote group plans, highlighting the lower average monthly charges. Additionally, offer special discounts or incentives for customers to switch from individual plans to group plans. This approach can help reduce churn by making the service more affordable and appealing.
+
+- Customers who have an unlimited plan but do not consume more than 5GB per month tends to churn more.
+  > Suggest: Databel should contact customers to offer attractive pricing and other benefits that are more appealing compared to competitors.
+
+- Customers who an `International Plan` but do not actively make international calls have the highest churn rate.
+  > Suggest: Contact customers with an International Plan who have not actively made international calls for a certain period to offer them a switch to a normal package or provide a monthly discount. This can help lower their average monthly charge, making it more competitive and reducing the churn rate.
