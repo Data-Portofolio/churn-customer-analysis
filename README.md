@@ -193,4 +193,7 @@ The churn rate in **California (CA)** is the highest (`63.24%`).
   > Suggest: Databel should contact customers to offer attractive pricing and other benefits that are more appealing compared to competitors.
 
 - Customers who an `International Plan` but do not actively make international calls have the highest churn rate.
-  > Suggest: Contact customers with an International Plan who have not actively made international calls for a certain period to offer them a switch to a normal package or provide a monthly discount. This can help lower their average monthly charge, making it more competitive and reducing the churn rate.
+  > Suggest: Contact customers with an International Plan who have not actively made international calls for a certain period to offer them a switch to a normal package or provide a monthly discount below $30 or below any competitors. This can help lower their average monthly charge, making it more competitive and reducing the churn rate.
+
+- Out of 1,796 churned customers, 1,141 had an average monthly charge of $18.75 and were on a Month to Month contract with Direct Debit payment.
+  > Suggest: Databel should contact customers through direct calls or campaigns via email/messages to offer a more attractive monthly charge for the Month to Month plan, such as below $18 or lower than any competitors, and propose payment options via paper check/credit card.
