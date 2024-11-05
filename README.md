@@ -164,20 +164,21 @@ The churn rate in **California (CA)** is the highest (`63.24%`).
 - Based on analysis of the graph below, it can be seen that there are 5166 customers or 77.25% of all customers, who are `Not in a Group`.
   <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/6c85d740-d3e1-42e4-953e-2cc8088ca990"></p>
 
-#### 5. 
-- Customers who have an unlimited plan but do not consume more than 5GB per month tends to churn more. You can look at this visualization below 
+#### 5. Unlimited Plan 
+- Customers who have an unlimited plan but do not consume more than 5GB per month tends to churn more.
   <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/f8ef0aae-16ca-4807-96cd-cf93a031be9f"></p>
   
-#### 6. 
+#### 6. International Plan
 - Customers who an `International Plan` but do not actively make international calls have the highest churn rate (`71.19` but fortunately, the number of customers in this group is the lowest (`177 customers`). In this group, there appears to be the highest average monthly charge (`$33.12`).
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/10995b29-fa77-428d-9177-ee65498fb6d1"></p>
 
-#### 7. 
+#### 7. Contract Type & Payment method
 - Out of 1796 churned customers, 1141 of them have an average monthly charge of `$18.75`, with a contract type of `Month to Month` and a payment method of `Direct Debit`. This is a significant number, so DataBel needs to focus on this customer group.
 <p align="center"><img src="https://github.com/Data-Portofolio/churn-customer-analysis/assets/133883292/067da8c9-7a6d-4749-ba70-82cb94ce951d"></p>
 
 ## Business Insights & Recommendation
--  From the analysis, the highest reason for customer churn in Databel is that competitors made better offers, accounting for 29.25% of the churn. Therefore, Databel should develop more attractive and tailored offerings that meet customer needs.
+-  From the analysis, the highest reason for customer churn in Databel is that competitors made better offers, accounting for 29.25% of the churn.
+   > Suggest: Databel should develop more attractive and tailored offerings that meet customer needs. These offerings should be more appealing than those of competitors in terms of pricing and packages. Additionally, the attitude of support staff should be trained to ensure they provide high levels of customer satisfaction, especially for the senior group.
   
 - The churn rate for customers who pay for an international plan, but don't call internationally is skyhigh.
   
