@@ -178,8 +178,7 @@ The churn rate in **California (CA)** is the highest (`63.24%`).
 
 ## Business Insights & Recommendation
 #### 1. The highest reason for customer churn in Databel is that competitors made better offers, accounting for 29.25% of the churn.
-   > Suggest: Databel should develop more attractive and tailored offerings that meet customer needs. These offerings should be more appealing than those of competitors in terms of pricing and packages. Additionally, the attitude of support staff should be trained to ensure they provide high levels of customer satisfaction, especially for the senior group.
-  
+   > Suggest: Databel should develop more attractive and tailored offerings that meet customer needs, making them more appealing than those of competitors in terms of pricing and packages. Additionally, Databel's devices should be more advanced than those of its competitors. Furthermore, the support staff should receive training to ensure they provide high levels of customer satisfaction, particularly for the senior group.
 #### 2. The churn rate for customers who pay for an international plan, but don't call internationally is skyhigh.
   
   > Suggest: Contact customers who are an on an international plan but have not called internationally and propose them to downgrade their plan.
@@ -197,3 +196,6 @@ The churn rate in **California (CA)** is the highest (`63.24%`).
 
 #### 7. That 63% customer churned  were on a Month to Month contract with Direct Debit payment.
   > Suggest: Databel should contact customers through direct calls or campaigns via email/messages to offer a more attractive monthly charge for the Month to Month plan, such as below $18 or lower than any competitors, and propose payment options via credit card. Databel can also offer a more affordable annual package for customer that switch from Month to Month to an annual plan.
+
+#### 8. California is a state in the western United States that has the highest churn rate.
+  > Suggest: Databel should contact customers in California through campaigns to offer more attractive options, such as a lower average monthly charge and devices that are more advanced than those of competitors
