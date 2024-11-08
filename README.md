@@ -13,7 +13,7 @@
      <a href='https://www.linkedin.com/in/a-rahmawati' target='_blank'><img alt='Follow Me on LinkedIn' title='Follow Me on LinkedIn' src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Profile'/>
     </a>
     <a href='https://public.tableau.com/app/profile/astuti.rahma/viz/CustomerChurnDASHBOARD/Dashboard8' target='_blank'>
-    <img src='https://img.shields.io/badge/Tableau-Visit%20Dashboard-pink?style=for-the-badge&logo=tableau&logoColor=white&labelColor=dd9d9' alt='Tableau Public Profile'/>
+    <img src='https://img.shields.io/badge/Tableau-Visit%20Dashboard-pink?style=for-the-badge&logo=tableau&logoColor=blue&labelColor=white' alt='Tableau Public Profile'/>
 </a>
 
 </p>
