@@ -216,3 +216,11 @@ The churn rate in **California (CA)** is the highest (`63.24%`).
 
 #### 8. California is a state in the western United States that has the highest churn rate.
   > Suggest: Databel should contact customers in California through campaigns to offer more attractive options, such as a lower average monthly charge and devices that are more advanced than those of competitors
+
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<p align="center">
+    :copyright: 2023 | A-Rahmawati </p>
+</h3>
