@@ -222,5 +222,5 @@ The churn rate in **California (CA)** is the highest (`63.24%`).
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <p align="center">
-    :copyright: 2023 | A-Rahmawati </p>
+    :copyright: 2024 | A-Rahmawati </p>
 </h3>
