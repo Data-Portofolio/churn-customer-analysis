@@ -5,10 +5,7 @@
 </p>
 
 <p align='center'>
-    <!-- Badge for GitHub Stars -->
-    <a href='https://github.com/Data-Portofolio/churn-customer-analysis'><img alt='Total stars' title='Total stars on This Project' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=5&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Data-Portofolio'/>
-    </a>
-    <a href='https://github.com/astutir'><img alt='Follow Me on GitHub' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/astutir?style=for-the-badge&&label=GitHub&logo=Github&color=pink'/>
+    <a href='https://github.com/astutir'><img alt='Follow Me on GitHub' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/astutir?style=for-the-badge&&label=GitHub&logo=Github&color=green'/>
     </a>
      <a href='https://www.linkedin.com/in/a-rahmawati' target='_blank'><img alt='Follow Me on LinkedIn' title='Follow Me on LinkedIn' src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Profile'/>
     </a>
