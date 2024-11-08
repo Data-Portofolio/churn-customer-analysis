@@ -1,4 +1,9 @@
-<h3 align='center'> ▂▃▅▇█▓▒░C𝚑𝚞𝚛𝚗 C𝚞𝚜𝚝𝚘𝚖𝚎𝚛 A𝚗𝚊𝚕𝚢𝚜𝚒𝚜░▒▓█▇▅▃▂</h3>
+<h3 align='center'> ▂▃▅▇█▓▒░C𝚞𝚜𝚝𝚘𝚖𝚎𝚛 C𝚑𝚞𝚛𝚗 A𝚗𝚊𝚕𝚢𝚜𝚒𝚜░▒▓█▇▅▃▂</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a07e3a9-8df6-4d1f-8b1d-6c5823bb32ac" width="200" height="150" />
+</p>
+
 <br>
 <details><summary>Data Analysis Flow in Tableu</summary>
   
