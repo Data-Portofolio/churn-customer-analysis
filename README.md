@@ -126,6 +126,7 @@ Dalam keseluruhan, strategi "leaky bucket" mencakup upaya untuk mengurangi keboc
 - **Segment Customer Profiles**: Classify customers according to their churn risk to understand which segments are most likely to leave the service.
 - **Provide Data-Driven Recommendations**: Develop actionable insights and strategies to help Databel reduce customer churn and improve customer retention rates.
 ### [Business Metrics](#-business-metrics)
+-  **Churn Rate** 
 
 ## Exploratory Data Analysis (EDA)
 
